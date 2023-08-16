@@ -1,0 +1,4 @@
+What is 7 times 6?
+#ifndef REVEAL
+42
+#endif

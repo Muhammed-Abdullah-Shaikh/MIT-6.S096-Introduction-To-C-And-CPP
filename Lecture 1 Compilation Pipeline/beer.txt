@@ -1,0 +1,6 @@
+#define beer(x) x bottle of \
+beer on the wall...
+
+beer(99)
+beer(98)
+beer(97)

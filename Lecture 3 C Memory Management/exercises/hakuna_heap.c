@@ -7,7 +7,7 @@ int main() {
 	strcpy(str, "hakuna matata!"); // this line should copy "hakuna matata!"
 	                         // into our char array
 	printf("%s\n", str);
-	// free(str);
+	free(str);
   return 0;
 }
 
